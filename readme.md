@@ -32,4 +32,4 @@ The TA will provide the username or email address associated with their account 
 
 ## Activate GitHub Pro (optional)
 
-GitHub Pro is free for students. You can activate this offer [here](https://education.github.com/benefits/offers). There are lots of additional resources available as part of the [GitHub Student Developer Pack](https://education.github.com/pack). You (probably) won't need any of this for this course, but it is still worth looking at them so that you know what is available.
+GitHub Pro is free for students. You can activate this offer [here](https://education.github.com/pack). There are lots of additional resources available as part of the [GitHub Student Developer Pack](https://education.github.com/pack). You (probably) won't need any of this for this course, but it is still worth looking at them so that you know what is available.
